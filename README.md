@@ -20,6 +20,6 @@ Keras squeeze-excitation networks:
 ![squeeze excite block](https://github.com/vin136/Practical-Deep-Learning-/blob/master/sqex.png)
 
 Towards the end of this notebook we will implement squeeze-excitation network but before that we will learn Transfer Learning and how to Structure Research Projects..
-[How to add squeeze excite block]()
+![How to add squeeze excite block](https://github.com/vin136/Practical-Deep-Learning-/blob/master/addse.png)
 
 
